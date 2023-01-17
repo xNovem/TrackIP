@@ -1,7 +1,7 @@
 # Trick-IP
 ## Installation :
 
-* `git clone git://github.com/htr-tech/track-ip.git`
+* `git clone git://github.com/xNovem/TrackIP`
 * `cd track-ip`
 
 #### > Run : `bash trackip`
