@@ -5,3 +5,8 @@
 * `cd track-ip`
 
 #### > Run : `bash trackip`
+
+### < Tested On 
+
+- Termux - Linux
+
