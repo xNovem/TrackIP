@@ -8,5 +8,6 @@
 
 ### < Tested On 
 
-- Termux - Linux
+- Termux 
+- Linux
 
